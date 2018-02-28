@@ -1,0 +1,111 @@
+
+ * {
+  box-sizing: border-box;
+}
+
+body {
+      width: 960px;
+      margin: 0 auto;
+      background: url("../images/cloth.png") repeat;
+      
+    
+    }
+header {
+  position: fixed;
+  left: 0px;
+  width: 100%;
+  padding: 60px;
+  background-color: white;
+
+  }
+
+  h1 { 
+    
+
+      color: #ffffff;
+      background: #4aaaa5;
+      position: fixed;
+      width: 320px;
+          padding: 30px;
+          margin: 0 auto 0;
+          text-align: center;
+          font-family: 'Georgia', Times, "Times New Roman", serif;
+          left: 290px;
+          top: 10px;
+          
+  }
+
+  .links { 
+    padding: 30px;
+      position: fixed;
+    color: #777777;
+   text-align: right;
+   
+    font-size: 21px;
+    left: 1150px;
+    top: 0 px;
+
+  }
+  .wrapper {
+    width: 650px;
+    background: white;
+    padding: 20px;
+    border-color: #dddddd;
+      margin: left;
+    font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
+
+
+  }
+
+  #fixed {
+
+    position: fixed;
+   left: 1150px;
+    top: 162px;
+    padding: 40px;
+    margin: 0 auto;
+    text-align: Center;
+    background: white;
+    width: 270px;
+ 
+  }
+  
+  a1 { 
+      color: #4aaaa5;
+      margin: 0 auto 0;
+      float: left;
+      padding: 15px;
+      font-size: 31px;
+  }
+ hr {   
+  
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+} 
+img {float: left;
+  padding: 15px;
+
+
+}
+p { font-size: 14px;
+  line-height: 32px;
+  /* color: #333; */
+  font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+  color: white;
+  text-align: center;
+}
+
