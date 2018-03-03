@@ -55,7 +55,7 @@ header {
       color: #ffffff;
       background: #4aaaa5;
       position: fixed;
-      float: left;
+      
       /* margin-left: 325px; */
       width: 320px;
           padding: 30px;
@@ -63,8 +63,8 @@ header {
           text-align: center;
           font-family: 'Georgia', Times, "Times New Roman", serif;
           font-size: 31px;
-          /* left: 475px;
-          top: 10px; */
+          left: 475px;
+          top: 10px;
      
   }
 
